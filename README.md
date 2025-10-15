@@ -2,9 +2,9 @@ Absolutely! Here's a clear, professional-style `README.md` for your **Student Su
 
 ---
 
-## 🎓 Student Subqueries and Aggregation SQL Project
+##  Student Subqueries and Aggregation SQL Project
 
-### 🧾 Overview
+###  Overview
 
 This project demonstrates how to use **SQL subqueries** and **aggregation functions** to analyze student performance data.
 It includes creating a student table, inserting academic scores, and writing queries to:
@@ -16,7 +16,7 @@ It includes creating a student table, inserting academic scores, and writing que
 
 ---
 
-### 🎯 Objectives
+###  Objectives
 
 * Create a relational table to store student academic records
 * Use subqueries to calculate total scores and extract specific data
@@ -27,7 +27,7 @@ It includes creating a student table, inserting academic scores, and writing que
 
 ---
 
-### 🗃️ Database Structure
+###  Database Structure
 
 #### Table: `Students`
 
@@ -41,7 +41,7 @@ It includes creating a student table, inserting academic scores, and writing que
 
 ---
 
-### 📌 SQL Queries Included
+###  SQL Queries Included
 
 * Create the `Students` table
 * Insert 10 sample student records
@@ -52,7 +52,7 @@ It includes creating a student table, inserting academic scores, and writing que
 
 ---
 
-### ⚙️ How to Use
+###  How to Use
 
 1. Clone or download this project.
 2. Open **MySQL Workbench** (or any MySQL client).
@@ -66,7 +66,7 @@ It includes creating a student table, inserting academic scores, and writing que
 
 ---
 
-### 📂 Files Included
+###  Files Included
 
 * `create_table.sql` → SQL to create the `Students` table
 * `insert_data.sql` → Sample data to populate the table
@@ -76,11 +76,8 @@ It includes creating a student table, inserting academic scores, and writing que
 
 ---
 
-### 📄 License
+###  License
 
 This project is open-source and intended for **educational purposes** only.
 Use it to learn and practice SQL fundamentals, subqueries, and data aggregation.
 
----
-
-Would you like this `README.md` as a downloadable file or packaged with the `.sql` scripts?
